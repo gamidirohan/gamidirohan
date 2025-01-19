@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/9h86gl"  />
+<img align="right" height="150" src="9h86gl.gif"  />
 
 ###
 
