@@ -131,8 +131,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gamidirohan/gamidirohan/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <picture>
