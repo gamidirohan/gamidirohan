@@ -1,6 +1,6 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-<h2 align="left">Hi 👋! My name is Gamidi Rohan, and I'm an AI and Software Developing enthusiast</h2>
+<h2 align="left">Hi 👋! My name is Gamidi Rohan, and I'm an AI and Software Development Enthusiast</h2>
 
 ###
 
